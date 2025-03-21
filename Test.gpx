@@ -255,15 +255,7 @@
             <trkpt lat="50.776129" lon="4.418383">
                 <ele>129.5</ele>
             </trkpt>
-      <trkpt lat="39.606377" lon="7.3414883333333325">
-        <ele>51</ele>
-      </trkpt>
-      <trkpt lat="38.82453" lon="9.063653333333335">
-        <ele>51</ele>
-      </trkpt>
-      <trkpt lat="38.77993" lon="9.129604999999998">
-        <ele>51</ele>
-       </trkpt>
+
         </trkseg>
     </trk>
 </gpx>
