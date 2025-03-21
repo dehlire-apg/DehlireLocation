@@ -13,8 +13,11 @@
     </metadata>
     <trk>
         <name>simple</name>
-        <type>Cycling</type>
+
         <trkseg>
+            <trkpt lat="50.790867" lon="7.404968">
+                <ele>109.0</ele>
+            </trkpt>
             <trkpt lat="50.790867" lon="5.404968">
                 <ele>109.0</ele>
             </trkpt>
