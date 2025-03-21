@@ -7,6 +7,13 @@
         <link href="https://dehlire.iamguilher.me"></link>
     </author>
 </metadata>
+
+    <wpt lat="39.79577" lon="2.6947516666666664">
+        <time>2024-06-08T11:54:03.6246587Z</time>
+        <ele>1273</ele>
+        <name>Dehlire (Pl)</name>
+    </wpt>
+
 <trk>
     <name>Dehlire Route</name>
     <type>Sailing</type>
@@ -16,11 +23,11 @@
         <time>2024-06-07T12:47:01.7996278Z</time>
     </trkpt>
     
-    <wpt lat="39.79577" lon="2.6947516666666664">
+    <trkpt lat="39.79577" lon="2.6947516666666664">
         <time>2024-06-08T11:54:03.6246587Z</time>
         <ele>1273</ele>
         <name>Dehlire (Pl)</name>
-    </wpt>
+    </trkpt>
     
     <trkpt lat="39.794933" lon="2.690833333333333">
         <time>2024-06-08T12:23:31.0722859Z</time>
