@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2" version="1.1" creator="https://gpx.studio">
+<metadata>
+    <name>Dehlire Route</name>
+    <author>
+        <name>Where's Dehlire</name>
+        <link href="https://dehlire.iamguilher.me"></link>
+    </author>
+</metadata>
+<trk>
+    <name>Dehlire Route</name>
+    <type>Sailing</type>
+    <trkseg>
+    
+    <trkpt lat="39.839577" lon="19.411148">
+        <time>2025-07-10T14:10:56.0743568Z</time>
+    </trkpt>
+    
+    <trkpt lat="39.83962" lon="19.411126666666668">
+        <time>2025-07-10T16:42:13.2368125Z</time>
+    </trkpt>
+    
+    <trkpt lat="39.83959" lon="19.41112166666667">
+        <time>2025-07-10T17:11:28.6267248Z</time>
+    </trkpt>
+    
+    <trkpt lat="39.839596" lon="19.411131666666666">
+        <time>2025-07-10T18:17:28.558333Z</time>
+    </trkpt>
+    
+    <trkpt lat="39.839546" lon="19.411091666666668">
+        <time>2025-07-10T19:11:44.3128458Z</time>
+    </trkpt>
+    
+    <trkpt lat="39.83962" lon="19.411080000000002">
+        <time>2025-07-10T20:17:53.8215361Z</time>
+    </trkpt>
+    
+    <trkpt lat="39.83963" lon="19.411143333333335">
+        <time>2025-07-10T22:17:19.4499367Z</time>
+    </trkpt>
+    
+    <trkpt lat="39.839626" lon="19.41120666666667">
+        <time>2025-07-10T22:17:45.0091827Z</time>
+    </trkpt>
+    
+    <trkpt lat="39.839577" lon="19.411108333333335">
+        <time>2025-07-10T23:53:32.355675Z</time>
+    </trkpt>
+    
+    </trkseg>
+</trk>
+</gpx>
