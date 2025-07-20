@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" version="1.1" creator="https://gpx.studio" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>Dehlire Route</name>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <trk>
+    <name>Dehlire Route</name>
+    <type>Sailing</type>
+    <trkseg>
+      <trkpt lat="37.923702" lon="15.90081">
+        <time>2025-07-16T03:38:10.180Z</time>
+      </trkpt>
+      <trkpt lat="37.920353" lon="15.889203333333333">
+        <time>2025-07-16T03:54:08.408Z</time>
+      </trkpt>
+      <trkpt lat="37.907703" lon="15.838535">
+        <time>2025-07-16T05:05:18.947Z</time>
+      </trkpt>
+      <trkpt lat="37.883175" lon="15.765426666666666">
+        <time>2025-07-16T05:53:30.619Z</time>
+      </trkpt>
+      <trkpt lat="37.82282" lon="15.649711666666667">
+        <time>2025-07-16T06:53:27.037Z</time>
+      </trkpt>
+      <trkpt lat="37.77961" lon="15.571255">
+        <time>2025-07-16T07:38:36.851Z</time>
+      </trkpt>
+      <trkpt lat="37.764404" lon="15.542004999999998">
+        <time>2025-07-16T07:53:27.556Z</time>
+      </trkpt>
+      <trkpt lat="37.706924" lon="15.425653333333331">
+        <time>2025-07-16T09:05:20.182Z</time>
+      </trkpt>
+      <trkpt lat="37.666348" lon="15.318523333333335">
+        <time>2025-07-16T09:53:30.057Z</time>
+      </trkpt>
+      <trkpt lat="37.61203" lon="15.26256">
+        <time>2025-07-16T10:53:24.951Z</time>
+      </trkpt>
+      <trkpt lat="37.550632" lon="15.217141666666665">
+        <time>2025-07-16T11:53:30.011Z</time>
+      </trkpt>
+      <trkpt lat="37.503124" lon="15.143565000000002">
+        <time>2025-07-16T12:53:34.679Z</time>
+      </trkpt>
+      <trkpt lat="37.494556" lon="15.095086666666667">
+        <time>2025-07-16T13:53:26.202Z</time>
+      </trkpt>
+      <trkpt lat="37.500084" lon="15.092946666666668">
+        <time>2025-07-16T14:54:07.874Z</time>
+      </trkpt>
+      <trkpt lat="37.50009" lon="15.092856666666666">
+        <time>2025-07-16T15:53:25.361Z</time>
+      </trkpt>
+      <trkpt lat="37.500217" lon="15.092668333333332">
+        <time>2025-07-16T16:53:34.288Z</time>
+      </trkpt>
+      <trkpt lat="37.5" lon="15.093143333333336">
+        <time>2025-07-16T17:53:52.905Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
